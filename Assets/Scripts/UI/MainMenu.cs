@@ -3,11 +3,12 @@ using UnityEngine.SceneManagement;
 
 namespace Boyscamp.UI
 {
+    // Legacy script kept for compatibility
+    // New main menu logic is in MainMenuUI.cs
     public class MainMenu : MonoBehaviour
     {
         public void PlayBattleRoyale()
         {
-            // Load BR scene
             SceneManager.LoadScene("CCSS_Nkolmbong");
         }
 
