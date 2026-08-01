@@ -1,0 +1,6 @@
+Boyscamp Android Notes
+
+Package Name recommendation: com.fhish09.boyscamp
+Orientation: Portrait (for Main Menu) + Landscape support later for gameplay if needed
+Internet Permission: Required for multiplayer later
+Write External Storage: Optional
